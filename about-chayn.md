@@ -1,5 +1,3 @@
-# About us
-
 ![](assets/chayn_logo_small.png)
 
 This guide is a project by [CHAYN](http://chayn.co), an open-source project that uses technology to empower women against violence and oppression so they can live happier and healthier lives.  The content for this document is openly licensed using the Creative Commons Attribution-ShareAlike 4.0 International. All are invited to remix and distribute it as long as it is appropriately attributed.
