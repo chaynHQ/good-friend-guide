@@ -1,5 +1,7 @@
 # If your friend returns to an abusive partner
 
+![](assets/cycle_of_abuse.gif)
+
 You may find that you support a friend to remove themselves from an abusive relationship, but they end up returning to them a few months, weeks or even years later.  So we can be a good support network to a friend suffering from abuse, it is essential to understand the many factors that pull people back to a relationship that is physically or mentally harmful:
 
 ### Love
