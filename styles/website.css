@@ -8,7 +8,7 @@ h2 { font-size: 2em; font-family: "Fredoka One";}
 h3 { font-size: 1.5em; font-family: "Fredoka One";}
 
 /* body font */ 
-body, * { font-family: "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; }
+body, * { font-family: Helvetica, sans-serif; font-size: 14px; font-weight: 200; }
 
 /* table of contents */.book-summary{ background-color: #ffe6d5;}
 
@@ -19,5 +19,5 @@ body, * { font-family: "Helvetica Neue", Helvetica, sans-serif; font-size: 12px;
 /* side menu */
 .book-summary {color: black; font-size: 41px; font-weight: 800;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
+.book-summary ul.summary li.active > a { color: #5CA1BD; background: 0 0; text-decoration: strong;
 }
