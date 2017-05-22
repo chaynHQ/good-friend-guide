@@ -1,13 +1,14 @@
-/* page background */ body { background-color: #FAFAFA;}
-
 /* heading fonts */
 @import 'https://fonts.googleapis.com/css?family=Homemade+Apple';
 @import 'https://fonts.googleapis.com/css?family=Fredoka+One';
+
+/* page background */ body { background-color: #FAFAFA;}
+
+
+/* body font */ 
 h1 { font-size: 2.5em; font-family: "Homemade Apple";}
 h2 { font-size: 2em; font-family: "Fredoka One";}
 h3 { font-size: 1.5em; font-family: "Fredoka One";}
-
-/* body font */ 
 body, * { font-family: Helvetica, sans-serif; font-size: 14px; font-weight: 200; }
 
 /* table of contents */.book-summary{ background-color: #ffe6d5;}
