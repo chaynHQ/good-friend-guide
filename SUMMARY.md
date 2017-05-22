@@ -1,5 +1,4 @@
 # Summary
-* [Hello](readme.md)
 * [Perspectives of Support](Perspectives-of-support.md)
 * [How to listen](how-to-listen.md)
 * [What to say](what-to-say.md)
