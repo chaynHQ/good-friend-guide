@@ -1,6 +1,6 @@
 # Summary
-* [Perspectives of Support](perspectives-of-support.md)
-* [How to listen](how-to-listen.md)
+* [Perspectives of Support](1-others.md)
+* [How to listen](2-listen.md)
 * [What to say](what-to-say.md)
 * [If they have children](children.md)
 * [If they return to abuser](returns.md)
