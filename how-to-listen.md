@@ -18,7 +18,7 @@ There are many forms of violence (physical, verbal, psychological, emotional, se
 
 -     Wait and respect the time they take to tell you about their story. Your friend may not be ready to tell you everything that has happened to them in the first sitting.
 
--Be sensitive to the surroundings in which you meet and talk. Try tomeet in a quiet place which is neutral enough to afford them the ability to talk about such difficult issues. Your friend may not want to talk about it in public, so perhaps go for a walk or do an activity like cooking together. It is sometimes easier to talk when you are not just staring at one another across the table.
+-     Be sensitive to the surroundings in which you meet and talk. Try tomeet in a quiet place which is neutral enough to afford them the ability to talk about such difficult issues. Your friend may not want to talk about it in public, so perhaps go for a walk or do an activity like cooking together. It is sometimes easier to talk when you are not just staring at one another across the table.
 
   
 
