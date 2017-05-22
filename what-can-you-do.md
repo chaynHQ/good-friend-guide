@@ -1,6 +1,6 @@
 # What can you do
 
-![](assets/how_to_be_a_friend.gif)
+![](assets/chayn_chai.gif)
 
 ### Be patient
 it may take just one time to leave their partner, or it may take 10. Whatever the number may be, try to stay strong for your friend and be there when she finds the courage to leave the abusive environment they are in.
