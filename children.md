@@ -1,6 +1,8 @@
 # If they have children
 
+
 ![](assets/mom_protects_kids.gif)
+
 
 -  Without making them feel like a ‘bad mother’, remind them that a violent parent harms the welfare of children. If your friend has children, then it is a lot harder to end an abusive relationship. Often children are used as ‘blackmail’ by the perpetrator of violence and abuse in order to control their partner.
 
