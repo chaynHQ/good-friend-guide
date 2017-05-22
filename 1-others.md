@@ -3,6 +3,9 @@
 It’s often helpful to understand a situation by hearing from those who have lived through the experience. If you’re here, we know it’s because you want to know what more you can do to be a source of support. Below we have shared advice from those who have supported friends experiencing domestic abuse, or survivors who have had a friend support them through their journey. This may help you in your experiences.
 
 Before we share those stories, we want to highlight the experience of one survivor:
+
+### All I needed was...
+
 `My partner was always complaining about “his suffering,” and how he was misunderstood. To add to it, he had a terrible temper, one that led him to impart violence against me in more than one occasion. Somehow, I was always the one to blame. For everything that happened to me, him, and us. It was me who had to change for him to get better. At times, I really wish I had a good friend at that time. All I really needed was someone, anyone, who would have approached me and asked if my relationship was bad. Only if someone had asked me to confide in them, and offered to help.`
 
 ### Helping my sister
