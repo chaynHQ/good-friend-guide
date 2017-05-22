@@ -1,9 +1,9 @@
 # Summary
-* [Perspectives of Support](1-others.md)
+* [How others have helped loved ones](1-others.md)
 * [How to listen](2-listen.md)
-* [What to say](what-to-say.md)
-* [If they have children](children.md)
-* [If they return to abuser](returns.md)
+* [What to say](3-say.md)
+* [If they have children](4-children.md)
+* [If they return to abuser](5-returns.md)
 * [What can you do?](what-can-you-do.md)
 * [Useful terms](useful-terms.md)
 * [Stories](stories.md)
