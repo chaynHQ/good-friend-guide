@@ -1,6 +1,6 @@
 # What to say
 
-![](assets/84f22185-a78c-4394-8130-78b43d4de090.png)
+![](assets/listen.png)
 
 Remember that you cannot resolve the situation yourself. You are not in the relationship and hence cannot control what happens. This can be frustrating and can make you feel like you are doing nothing to help. Try to remember that just listening and supporting your friend is one of the most important things you can do to make her feel stronger.
  
