@@ -1,4 +1,4 @@
-# the Good Friend guide
+# the good friend guide
 
 ![](assets/The_good_friend_guide.gif)
 
