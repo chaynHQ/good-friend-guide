@@ -1,0 +1,23 @@
+/* page background */ body { background-color: #FAFAFA;}
+
+/* heading fonts */
+@import 'https://fonts.googleapis.com/css?family=Homemade+Apple';
+@import 'https://fonts.googleapis.com/css?family=Fredoka+One';
+h1 { font-size: 2.5em; font-family: "Homemade+Apple"; text-transform: uppercase;}
+h2 { font-size: 2em; font-family: "Fredoka+One"; color: #d16544;}
+h3 { font-size: 1.5em; font-family: "Fredoka+One"; color: #52bf91;}
+
+/* body font */ 
+body, * { font-family: "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; }
+
+/* table of contents */.book-summary{ background-color: #f0244d;}
+
+/* search bar */
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
+}
+
+/* side menu */
+.book-summary {color: black; font-size: 41px; font-weight: 800;}
+
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
+}
