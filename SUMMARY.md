@@ -4,7 +4,7 @@
 * [What to say](3-say.md)
 * [If they have children](4-children.md)
 * [If they return to abuser](5-returns.md)
-* [What can you do?](what-can-you-do.md)
+* [What can you do?](6-what-can-you-do.md)
 * [Useful terms](useful-terms.md)
 * [Stories](stories.md)
 * [Thanks](thanks.md)
