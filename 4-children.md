@@ -13,13 +13,13 @@
 -  **Depending on the law of their country** (e.g. child custody) and their own situation, they might want to remain with the abuser and there is nothing you can do about. You can only advise them on how to cope the best with the everyday trauma and how to shield the children from it.
  
 ### Avoid saying:
-_“ …. What? Right! I’m calling my cousin and we’ll go sort them out!”
-“… No way! Really?! They seem so sweet!”
-“… Oh my gosh, usually you are so tough!”
-“… You’ve been stupid.”
-“… And you didn’t do anything?”
-“… What were you thinking?”
-“… I wouldn’t have done that.”_
+- “ …. What? Right! I’m calling my cousin and we’ll go sort them out!”
+- “… No way! Really?! They seem so sweet!”
+- “… Oh my gosh, usually you are so tough!”
+- “… You’ve been stupid.”
+- “… And you didn’t do anything?”
+- “… What were you thinking?”
+- “… I wouldn’t have done that.”_
 
 
 ### Above all: 
