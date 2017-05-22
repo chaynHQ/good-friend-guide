@@ -6,6 +6,5 @@
 * [If they return to abuser](5-returns.md)
 * [What can you do?](6-what-can-you-do.md)
 * [Useful terms](useful-terms.md)
-* [Stories](stories.md)
 * [Thanks](thanks.md)
 * [About Chayn](about-chayn.md)
