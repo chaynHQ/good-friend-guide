@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "anker-enable",
+        "analytics"
+    ] ,
+    "pluginsConfig": {
+        "analytics": {
+            "google": "UA-58128275-6"
+        }
+    }
+}
