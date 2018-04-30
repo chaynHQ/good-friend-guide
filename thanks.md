@@ -38,9 +38,7 @@ How to stay safe when online: DIY Online Privacy Guide - Basic
 
 How to stay safe when online: DIY Online Privacy Guide - Advanced
 
-[https://chayn.gitbooks.io/advanced-
-
-diy-privacy-for-every-woman/content/securing-your-connections.html](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/securing-your-connections.html)
+[https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/securing-your-connections.html](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/securing-your-connections.html)
 
 How To Build Your Own Domestic Violence Case Without A Lawyer
 
