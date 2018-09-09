@@ -1,6 +1,6 @@
-# the good friend guide
+# Introduction
 
-![](assets/The_good_friend_guide.gif)
+![](.gitbook/assets/the_good_friend_guide.gif)
 
 ## How to be supportive to a friend or family member experiencing abuse.
 
@@ -10,6 +10,5 @@ For now, we have decided to focus our attention on violent and abusive relations
 
 This guide is part of a continuing discussion about how we can support those in violent relationships. We welcome suggestions and contributions that will help us improve this guide.
 
+![](.gitbook/assets/chayn_logo_small.png)
 
----
-![](assets/chayn_logo_small.png)

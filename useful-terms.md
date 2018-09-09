@@ -1,4 +1,4 @@
-# Useful terms: what do they mean?
+# Useful terms
 
 **Good Friend:** Anyone who behaves in a non-judgemental way and listens to someone regardless of their sexual orientation, gender identity and choices.
 
@@ -11,3 +11,4 @@
 **Gender-based violence:** According to the United Nations, any act of gender-based violence that results in, or is likely to result in, physical, sexual or psychological harm or suffering to women and girls, including threats of such acts, [coercion](https://en.wikipedia.org/wiki/Coercion) or limiting of freedom, whether occurring in public or in private life. It can be short or long term, and can extend to physical, psychological, emotional, existential and material damage. Violence cannot be associated exclusively with certain social, economic, cultural, national or religious conditions, but is a phenomenon that cuts across society. It may occur and be cultivated in a variety of environments. Gender-based violence often entails the abuse of the woman’s trust, in environments such as a romantic/intimate relationship, or in the workplace.
 
 **Same-sex violence:** Violence occurring within a relationship between two men or two women. This sort of violence is often ‘invisible’ due to society’s reluctance to accept such relationships and love. In addition, the need to continually defend one’s relationships from bigotry, homophobia, lesbophobia, transphobia and sexism further restricts one’s ability to speak openly about intimate partner violence, due to fear of being attacked once again for one’s sexual orientation and choices. The spiral of violence is a process which is internalised through systems of power and occurs regardless of gender. Those suffering the effects of violence do so, despite their sexuality. An individual who faces violence in a lesbian relationship undergoes violence threefold: in the relationship itself; in a lesbophobic and a sexist culture that both desires and rejects them; and through societal refusal to recognise the existence of violence in a relationship between women. It is everyone’s responsibility to recognise that same-sex violence exists, and to fight against it!
+
