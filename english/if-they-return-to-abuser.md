@@ -1,6 +1,6 @@
 # If they return to abuser
 
-![](.gitbook/assets/cycle_of_abuse.gif)
+![](../.gitbook/assets/cycle_of_abuse.gif)
 
 You may find that you help your friend leave an abusive relationship, but they end up returning to them a few months, weeks or even years later. We need to be a strong support network for a friend suffering from abuse. Therefore, it is essential to understand the many factors that pull people back to a relationship that is physically or psychologically harmful:
 

@@ -1,0 +1,7 @@
+# Se ela tiver filhos
+
+* Sem fazê-la sentir que não é uma boa mãe, lembre-a de que um pai violento prejudica o bem estar das crianças. Se sua amiga tem filhos, então é muito mais difícil terminar um relacionamento abusivo e contatar essa pessoa. Muitas vezes as crianças são usadas como chantagem pelo abusador para controlar a parceira, mesmo após o término da relação.
+* Mesmo quando o parceiro da sua amiga não maltrata as crianças, elas ainda serão afetadas por viver em um lar violento. Existe uma linha muito tênue a ser traçada entre não fazer com que sua amiga se sinta culpada e mantê-la ciente dos efeitos prejudiciais que as crianças têm ao estar em um lar violento. Quando as crianças estão envolvidas, é ainda mais importante que sua amiga saia do relacionamento abusivo. Ajude-a a entender que terminar um relacionamento abusivo não priva a criança de ter um pai. Ao contrário, a salva de viver em um clima de medo e ansiedade.
+* Se os filhos de sua amiga falam sobre a violência e o abuso em casa, é muito provável que estejam falando a verdade. As crianças geralmente têm menos inibição para falar desse abuso que acontece dentro de casa. Escute-as com atenção!
+* Dependendo da lei do país \(ex. Custódia da criança\) e da situação, sua amiga pode escolher permanecer com o abusador, e não tem nada que você possa fazer sobre isso. Você pode apenas aconselhá-la sobre como lidar melhor com o trauma diário e como apoiar as crianças.
+

@@ -1,6 +1,6 @@
 # If they have children
 
-![](.gitbook/assets/mom_protects_kids.gif)
+![](../.gitbook/assets/mom_protects_kids.gif)
 
 * Without making them feel like a ‘bad parent’, remind them that a violent parent harms the welfare of children. If your friend has children, then it is a lot harder to end an abusive relationship and contact with that person. Often children are used as ‘blackmail’ by the abuser in order to control their partner, even after a relationship has ended.
 * Even when your friend’s partner doesn’t harm the children, they will still be affected by living in a violent home. There is a very fine line to tread between not making your friend feel guilty and keeping them aware of the harmful effects on children of being in a violent home. When children are involved, it is even more important for you to help your friend get out of the violent relationship. Help them understand that leaving a violent partner does not deprive children of a parent. Instead, it saves them from living in a climate of fear and anxiety.

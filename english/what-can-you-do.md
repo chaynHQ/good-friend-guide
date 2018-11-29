@@ -1,6 +1,6 @@
 # What can you do?
 
-![](.gitbook/assets/chayn_chai.gif)
+![](../.gitbook/assets/chayn_chai.gif)
 
 You might hope that you can be a "fixer", by showing care and support, but the truth of the matter is abusive relationships are highly complex. This means that ‘fixing’ them is not easy and while you should not let this discourage you from continuing to support your friend, you should not pressurize them or yourself. Falling into feelings of hopelessness, powerlessness and depression are common in these situations but you can fight this!
 

@@ -1,6 +1,6 @@
 # How to listen
 
-![](.gitbook/assets/making_a_chayn_chai.gif)
+![](../.gitbook/assets/making_a_chayn_chai.gif)
 
 ## It’s not all about the ears:
 
