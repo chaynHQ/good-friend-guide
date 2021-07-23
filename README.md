@@ -16,4 +16,4 @@ This guide is part of a continuing discussion about how we can support those in 
 
 {% page-ref page="portugues/" %}
 
-{% page-ref page="español/" %}
+{% page-ref page="espanol/" %}
